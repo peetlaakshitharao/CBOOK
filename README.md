@@ -10,6 +10,10 @@ A simple recipe search app using **HTML, CSS, and JavaScript**. It lets users ty
 - CSS
 - JavaScript
 - [TheMealDB API](https://www.themealdb.com/)
+
+### Live Demo
+https://peetlaakshitharao.github.io/CBOOK/
+
 ## Inspiration
 I was inspired by YouTube tutorials and wanted to build something small to practice API fetching and web design basics.
 ## About Me
