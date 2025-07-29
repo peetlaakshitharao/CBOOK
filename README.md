@@ -14,8 +14,3 @@ A simple recipe search app using **HTML, CSS, and JavaScript**. It lets users ty
 ### Live Demo
 https://peetlaakshitharao.github.io/CBOOK/
 
-## Inspiration
-I was inspired by YouTube tutorials and wanted to build something small to practice API fetching and web design basics.
-## About Me
-Hi! I'm **Peetla Akshitha**, a Computer Science student. I'm learning web development and this is my first project.  
-[🔗 LinkedIn](https://www.linkedin.com/in/peetlaakshitha/)
